@@ -1,0 +1,7 @@
+{
+  "name": "SerPro",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
